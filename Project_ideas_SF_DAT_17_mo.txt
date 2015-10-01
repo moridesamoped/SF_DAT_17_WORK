@@ -1,0 +1,43 @@
+Mo Johnson
+
+General research interests:
+Neuroscience, neuropsychology, psychopharmacology
+Genetics of disease/mental illness and personal treatment outcomes
+Neuro-imaging and trauma/responses to Trauma
+Social justice related in health outcomes, particularly vulnerable populations that have been exposed to trauma
+
+
+Caveat:
+I am used to working with datasets where you need IRB approval (sometimes a long process!) in order to even ask the research question or access/collect the data. I am pretty open to answering any question, but probably need the most help in finding and utilizing a data-set. 
+
+Labs I admire:
+Cognitive Neuroscience: http://gazzaleylab.ucsf.edu/
+The Freeman Lab at Janelia: https://www.janelia.org/lab/freeman-lab
+The Trauma Center: http://www.traumacenter.org/index.php
+
+Idea 1
+What is the question you hope to answer? 
+I would be very interested in looking at large databases of brain imaging data and seeing how it relates to a particular condition (eg. depression, response to trauma (PTSD, autism) in either diagnosis or treatment. 
+What data are you planning to use to answer that question? 
+Brain imaging data?
+What do you know about the data so far? 
+Why did you choose this topic?
+
+Idea 2
+What is the question you hope to answer?
+A lot of new psychopharmacology research is focused on targeting drug choice to personal genetics. I’d love to look at an issue related to this.  Or anything looking at the intersection between genetics and treatment options/drug choices
+What data are you planning to use to answer that question? 
+What do you know about the data so far? 
+Why did you choose this topic?
+
+
+
+
+
+
+Example:
+
+I'm planning to predict passenger survival on the Titanic.
+I have Kaggle's Titanic dataset with 10 passenger characteristics.
+I know that many of the fields have missing values, that some of the text fields are messy and will require cleaning, and that about 38% of the passengers in the training set survive.
+I chose this topic because I'm fascinated by the history of the Titanic. 
